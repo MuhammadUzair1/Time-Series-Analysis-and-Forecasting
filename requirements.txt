@@ -1,0 +1,17 @@
+nbformat
+ipykernel
+plotly
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+scipy
+statsmodels
+tensorflow==2.10
+statsmodels
+prophet
+pycaret
+pyFTS
+SimpSOM
+dill
